@@ -34,6 +34,8 @@ const Header = () => {
             src="/assets/images/headerlogo.webp"
             alt="Mvintage Logo"
             className="h-8"
+            width={125}
+            height={40}
           />
         </Link>
 

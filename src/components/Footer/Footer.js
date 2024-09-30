@@ -108,6 +108,8 @@ const Footer = () => {
               src="/assets/images/footerLogo.webp"
               alt="Mvintage Logo"
               className="h-12"
+              width={175}
+              height={50}
             />
           </Link>
         </div>
